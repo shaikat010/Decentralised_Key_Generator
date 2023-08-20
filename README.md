@@ -1,4 +1,7 @@
 # Decentralised_Key_Generator
+
+### https://docs.google.com/document/d/1UqqRB6uNjVTKW9y5dBkgZ1lF8_C_SOlmxZ8qcOxNfZA/edit?usp=sharing
+
 This is a decentralized key generator that generates key in a decentralized fashion. It uses network programming to convey the encryption keys over the network.
 
 
