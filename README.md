@@ -19,6 +19,9 @@ Every client should use their own unique function is order to generate the keys
 
 ![image](https://github.com/shaikat010/Decentralised_Key_Generator/assets/68814937/70a90c27-125e-4315-bde1-2817c8be37d2)
 
+![image](https://github.com/shaikat010/Decentralised_Key_Generator/assets/68814937/b584af19-2736-4f17-818b-544eb101d2a2)
+
+
 Key Generation at Server
 The server immediately creates the key pairs using the RSA algorithm when the server is turned on for the first time.The server then starts listening for the connections from the Key Generation Client.
 
